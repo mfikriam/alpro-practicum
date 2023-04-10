@@ -1,0 +1,3 @@
+Program1 memiliki fungsi yang menerima argumen dalam bentuk value (nilai) sehingga nilai original dari variabel yang menjadi parameter fungsi tidak akan termodifikasi.
+
+Program2 memiliki fungsi yang menerima argumen dalam bentuk pointer dan alamat memori (reference) sehingga nilai original dari variabel yang menjadi parameter akan termodifikasi.
