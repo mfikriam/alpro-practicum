@@ -1,0 +1,21 @@
+1. Apa fungsi looping pertama pada program bubble sort "for (int i = 5; i >=0; i--)"
+Jawaban:
+Loop ini mengontrol jumlah iterasi untuk loop luar dari program bubble sort. Loop luar mengakses setiap elemen array mulai dari elemen terakhir dan bergerak menuju elemen pertama. Hal ini dilakukan karena selama iterasi loop luar, algoritma buble sort membandingkan elemen array yang berdekatan dan menukarnya jika urutannya salah. Dengan memulai iterasi dari elemen terakhir, algoritma dapat memastikan bahwa elemen terbesar akan "menggelembung" ke ujung array di setiap loop luar.
+
+2. Apa fungsi variabel "temp" pada program sorting tersebut
+Jawaban:
+Variabel temp digunakan untuk menyimpan nilai salah satu elemen array selama proses pertukaran, sehingga nilai asli tidak hilang saat kedua elemen ditukan.
+
+3. Buatlah program untuk mengurutkan 2 array dibawah menggunakan bubble sort:
+- {'b', 'a', 'c'}
+- {'b', 'A', 'd', 'X', 'D', 'z'}
+Jawaban:
+<< Cek file soal_bubble_sort.cpp >>
+
+4. Jelaskan mengapa huruf kapital lebih kecil daripada huruf kecil
+Jawaban:
+Hal ini dikarenakan bahasa pemrograman umumnya mengikuti ASCII (American Standard Code for Information Interchange) yang menetapkan nilai numerik untuk setiap karakter. Di ASCII, huruf besar memiliki nilai numerik lebih rendah daripada huruf kecil. Misalnya nilai ASCII untuk huruf besar 'A' adalah 65, sedangkan nilai ASCII untuk huruf kecil 'a' adalah 97.
+
+5. Pada program Merge Sort, apa fungsi variabel 'm' pada prosedur merge_sort()
+Jawaban:
+Variabel 'm' merepresentasikan indeks dari elemen tengah (middle element) dalam array yang diurutkan oleh algoritma merge sort.
