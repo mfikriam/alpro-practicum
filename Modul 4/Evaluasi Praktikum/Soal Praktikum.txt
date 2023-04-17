@@ -1,9 +1,26 @@
 1. Jelaskan Source Code pada kegiatan praktikum
+Jawaban:
+
+
 2. Kerjakan source code dibawah ini:
+Jawaban:
+
+
 3. Jelaskan hasil output dari nilai-nilai yang ditampilkan pada program nomor 2
+Jawaban:
+
+
 4. Setelah mengerjakan soal nomor 2, berikan nilai pada variabel nil2 dengan nilai 
+Jawaban:
+
+
 35. Setelah itu tampilkan nilai dari deference nil(**nill3). Jelaskan hasil output 
 program tersebut.
+Jawaban:
+
+
 5. Buatlah sebuah contoh program yang mengimplementasikan pointer didalamnya. 
 Buat program tersebut dilengkapi dengan proses aritmatika dan pengimputan dari 
 user.
+Jawaban:
+
